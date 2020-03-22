@@ -1,0 +1,7 @@
+.mypy_cache
+db.sqlite3
+*.pyc
+__pycache__
+.env
+Untitled.ipynb
+.ipynb_checkpoints
